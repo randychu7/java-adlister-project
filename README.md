@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-- [Project Guidlines](#project-guidlines)
+- [Project Details](#project-details)
 - [Group Cohesivness](#group-cohesivness)
 - [Authors](#authors)
 
