@@ -12,21 +12,22 @@
 
 - Create an ad listing webiste where users can view ad listings posted by other in addtion to creating a profile that allows them to post and edit there own ads for viewing.
 
-### Project Guidlines
+### Project Details
 
-- users should be able to view their profile page when logged in
-- users should be able to fully CRUD user profile and ads
-- users should be able to search or sort ads
-- Include at least two of the following features:
+- users are be able to view their profile page when logged in
+- users are be able to fully CRUD user profile and ads
+- users are be able to search or sort ads
+- Included the following features:
     - nav bar changes based on login / logout
     - sticky forms
-    - ad show / details page
-    - a many-to-many relationship in the application
-- Include at least one of the following features:
+    - page to show ads / details page
+    - a search bar
+    - a personal profile page where users can their ad listings with the ability to edit or delete their ads
+    - a edit users profile page where the user can edit thier personal information or delete their account
     - back end validation of form data
     - error messages
     - intended redirects
-- project consistently styled and uses grid layout
+- project consistently styled with TailwindCSS and uses grid layout
 - code documented with a README and comments
 
 ### Group Cohesivness
